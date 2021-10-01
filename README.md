@@ -11,8 +11,8 @@ What are the questions were to be solved?
 
 Insights obtained throuhgout the project:
 
-![ScreenShot]("Images/histogram_points.png")
+![Image](https://github.com/cjbeimfohr13/exploratory-data-analysis-wine/blob/7b541ac0f69f69b90fd9a1a2d835e1d03385fa85/Images/histogram_points.png)
 
-![image]("Images/boxplot_points.png")
-![image]("Images/barchar_country.png")
-![image]("Images/piechart_argentina.png")
+![image](Images/boxplot_points.png)
+![image](Images/barchar_country.png)
+![image](Images/piechart_argentina.png)
