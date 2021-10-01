@@ -6,10 +6,15 @@ What are the questions were to be solved?
 * Is there a correlation between price of wine and the points that it is rewarded?
 * How many wineries are represented in the dataset? Which winery has the most wines entered?
 * what country do the best wines come from? What variety of wine is considered the best(tends to get the most points)?
-* what percentage of the wines from each of the countries have a score between 93 and 96? 
+* how many different varieties are there?
+* what wine has the best point score and what is the most expensive wine?
+* what is the wine that has the lowest score and what is the cheapest wine on the list?
+* what percentage of the wines from each of the countries have a score above 88 points and below 88 points? 
  
 
 Insights obtained throuhgout the project:
+
+As I began exploring and cleaning the dataset scraped from WineEnthusiast,
 
 ![Image](https://github.com/cjbeimfohr13/exploratory-data-analysis-wine/blob/7b541ac0f69f69b90fd9a1a2d835e1d03385fa85/Images/histogram_points.png)
 
