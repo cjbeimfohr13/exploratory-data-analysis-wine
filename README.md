@@ -11,7 +11,8 @@ What are the questions were to be solved?
 
 Insights obtained throuhgout the project:
 
-![image]("Images/histogram_points.png")
+<h2>![ScreenShot]("Images/histogram_points.png")</h2>
+
 ![image]("Images/boxplot_points.png")
 ![image]("Images/barchar_country.png")
 ![image]("Images/piechart_argentina.png")
