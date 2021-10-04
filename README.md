@@ -14,9 +14,11 @@ What are the questions were to be solved?
 
 Insights obtained throuhgout the project:
 
-As I began exploring and cleaning the dataset scraped from WineEnthusiast,
+As I began exploring and cleaning the dataset scraped from WineEnthusiast, I determined that columns (Unnamed, Description, region_2 and designation) were not needed and therefore removed. I then decided that the best way to showcase the distribution and frequency of wine scores was with a histogram shown below.
 
 ![Image](https://github.com/cjbeimfohr13/exploratory-data-analysis-wine/blob/7b541ac0f69f69b90fd9a1a2d835e1d03385fa85/Images/histogram_points.png)
+
+
 
 ![image](Images/boxplot_points.png)
 ![image](Images/barchar_country.png)
