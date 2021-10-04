@@ -12,7 +12,7 @@ What are the questions were to be solved?
 * what percentage of the wines from each of the countries have a score above 88 points and below 88 points? 
  
 
-Insights obtained throuhgout the project:
+##Insights obtained throuhgout the project:
 
 As I began exploring and cleaning the dataset scraped from WineEnthusiast, I determined that columns (Unnamed, Description, region_2 and designation) were not needed and therefore removed. I then decided that the best way to showcase the distribution and frequency of wine scores was with a histogram shown below.
 
