@@ -19,7 +19,7 @@ As I began exploring and cleaning the dataset scraped from WineEnthusiast, I det
 
 ![Image](https://github.com/cjbeimfohr13/exploratory-data-analysis-wine/blob/7b541ac0f69f69b90fd9a1a2d835e1d03385fa85/Images/histogram_points.png)
 
-I utilized the .describe() function to determine the summary statistics for the points and found that the average or mean point value for the wines in the dataset was 87.86 (rounded). The summary stats also provided the standard deviation of 3.28 showing ** I also used the same function do find the summary statistics of price as well which resulted in **
+I utilized the .describe() function to determine the summary statistics for the points and found that the average or mean point value for the wines in the dataset was 87.86 (rounded) with a standard deviation of 3.28. I also used the same function do find the summary statistics of price as well which resulted in a mean of 34.6 with a standard deviation of 37.3 (both rounded).
 
 From then a boxplot was used to display outlier point values from each country. 
 
